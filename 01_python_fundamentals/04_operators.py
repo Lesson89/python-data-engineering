@@ -59,3 +59,6 @@ print("Is profit margin equal to 30%?", is_profit_margin_equal_to_30)
 is_cost_greater_than_or_equal_to_revenue = cost >= revenue
 print("Is cost greater than or equal to revenue?", is_cost_greater_than_or_equal_to_revenue)
 
+print(profit != 0)
+print(revenue == cost)
+print(profit_margin > 50)
